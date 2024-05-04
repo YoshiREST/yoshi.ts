@@ -1,0 +1,24 @@
+{
+  "name": "yoshi.ts",
+  "version": "1.0.0",
+  "description": "yoshirest api client in typescript",
+  "main": "lib/index.ts",
+  "scripts": {
+    "test": "node dist/example/src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoshiREST/yoshi.ts.git"
+  },
+  "keywords": [
+    "yoshi",
+    "rest",
+    "api"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoshiREST/yoshi.ts/issues"
+  },
+  "homepage": "https://github.com/YoshiREST/yoshi.ts#readme"
+}
